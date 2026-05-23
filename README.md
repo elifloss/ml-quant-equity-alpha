@@ -126,4 +126,4 @@ Python · scikit-learn · yfinance · pandas · NumPy · matplotlib · joblib
 
 ## Author
 
-**Elijah Legall** · Penn State Data Science · [GitHub](https://github.com/elifloss) · [LinkedIn](https://linkedin.com/in/elijah-legall)
+**Elijah Legall** · Penn State Data Science · [GitHub](https://github.com/elifloss) · [LinkedIn](https://www.linkedin.com/in/elijah-legall-8aa53b261/)
